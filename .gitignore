@@ -1,0 +1,19 @@
+# Personal media, progress, credentials and generated artifacts
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.mp4
+*.mov
+*.zip
+*.json
+.env
+.env.*
+__pycache__/
+photos/
+details/
+videos/
+posters/
+runtime/
+回顾进度/
+判定结果/
